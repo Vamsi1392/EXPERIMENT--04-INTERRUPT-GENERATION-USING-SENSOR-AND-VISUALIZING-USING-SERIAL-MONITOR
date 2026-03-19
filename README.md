@@ -1,9 +1,9 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 23/02/2026
+###  DATE: 23-02-2026
 
-###  NAME: M.V.Vamsidhar Reddy 
-###  ROLL NO :212224040205
+###  NAME: M.V.Vamsidhar Reddy
+###  ROLL NO : 212224040205
 ###  DEPARTMENT: CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
@@ -124,7 +124,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 16. click on the run to observe the values 
  
 
-## STM 32 CUBE PROGRAM :
+## STM 32 CUBE PROGRAM 4A :
 ```
 #include "main.h"
 #include "stdio.h"
@@ -234,3 +234,10 @@ return ch;
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
+
+
+
+
+
+
+
